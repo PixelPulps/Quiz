@@ -4,7 +4,7 @@ let currentQuestionIndex = 0;
 let questions = [
     {
         question: "Was ist die Hauptstadt von Österreich?",
-        answers: ["Paris","London","Berlin","Tirol"],
+        answers: ["Paris","London","Berlin","Wien"],
         correctAnswer: 3
     },
     {
